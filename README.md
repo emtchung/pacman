@@ -1,5 +1,5 @@
 # pacman
-A simple pac-Man game written in Python, there is only one level and the ghosts will chase the player 
+A simple pac-Man game written in Python. There is only one level and the ghosts will chase the player 
 if the player is a certain distance away from the ghost. 
 
 Here is a preview of how the game looks: 
