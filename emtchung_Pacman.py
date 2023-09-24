@@ -193,7 +193,7 @@ class Ghost1(turtle.Turtle):
         a = self.xcor() - pacman.xcor()
         b = self.ycor() - pacman.ycor()
         distance = math.sqrt ((a**2) + (b**2))
-        if distance < 64:
+        if distance < 81:
             return True
         else:
             return False
