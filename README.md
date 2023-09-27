@@ -1,6 +1,5 @@
 # pacman
-A simple pac-Man game written in Python. There is only one level and the ghosts will chase the player 
-if the player is a certain distance away from the ghost. 
+A simple pac-Man game written in Python. There is only one level and the player has three lives to eat all the fruits while trying to run away from the enemies. The enemies will chase the player/Pac-Man when they are a certain distance apart.
 
 Here is a preview of how the game looks: 
 
